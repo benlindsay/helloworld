@@ -1,5 +1,5 @@
 # helloworld
 Test repo to practice collaboration
 
-Hello from benlindsay!
+Hello from benlindsay!  
 Here's a new line.
